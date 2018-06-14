@@ -1,0 +1,14 @@
+c:\users\cloudshoolfirst\source\repos\Voting\VotingWeb\obj\Debug\netcoreapp2.0\win7-x64\VotingWeb.csproj.CoreCompileInputs.cache
+c:\users\cloudshoolfirst\source\repos\Voting\VotingWeb\obj\Debug\netcoreapp2.0\win7-x64\VotingWeb.AssemblyInfoInputs.cache
+c:\users\cloudshoolfirst\source\repos\Voting\VotingWeb\obj\Debug\netcoreapp2.0\win7-x64\VotingWeb.AssemblyInfo.cs
+c:\users\cloudshoolfirst\source\repos\Voting\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+c:\users\cloudshoolfirst\source\repos\Voting\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+c:\users\cloudshoolfirst\source\repos\Voting\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\VotingWeb.exe
+c:\users\cloudshoolfirst\source\repos\Voting\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\VotingWeb.deps.json
+c:\users\cloudshoolfirst\source\repos\Voting\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\VotingWeb.runtimeconfig.json
+c:\users\cloudshoolfirst\source\repos\Voting\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\VotingWeb.runtimeconfig.dev.json
+c:\users\cloudshoolfirst\source\repos\Voting\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\VotingWeb.dll
+c:\users\cloudshoolfirst\source\repos\Voting\VotingWeb\obj\Debug\netcoreapp2.0\win7-x64\VotingWeb.csprojAssemblyReference.cache
+c:\users\cloudshoolfirst\source\repos\Voting\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\VotingWeb.pdb
+c:\users\cloudshoolfirst\source\repos\Voting\VotingWeb\obj\Debug\netcoreapp2.0\win7-x64\VotingWeb.dll
+c:\users\cloudshoolfirst\source\repos\Voting\VotingWeb\obj\Debug\netcoreapp2.0\win7-x64\VotingWeb.pdb
